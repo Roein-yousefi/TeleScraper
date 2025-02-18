@@ -1,6 +1,7 @@
 venv/
 db.sqlite3
 .idea/
+.idea
 .pg_data/
 .env/
 .gitignore/
