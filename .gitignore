@@ -1,0 +1,6 @@
+venv/
+db.sqlite3
+.idea/
+.pg_data/
+.env/
+.gitignore/
